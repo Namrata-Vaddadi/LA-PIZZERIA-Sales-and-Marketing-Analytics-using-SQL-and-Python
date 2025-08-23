@@ -1,4 +1,4 @@
-#LA'PIZZERIA Pizza Sales Data Analysis
+LA'PIZZERIA Pizza Sales Data Analysis
 ---
 
 
@@ -22,9 +22,6 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 
 - **`notebooks/`**  
   Python Jupyter notebooks demonstrating exploratory data analysis, data cleaning, and visualization.
-
-- **`powerbi/`**  
-  Power BI dashboard file (`pizza_sales_dashboard.pbix`) for interactive business insights visualization.
 
 - **`reports/`**  
   PDF report summarizing SQL queries and their results.
@@ -53,7 +50,6 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 
 - Insights into customer ordering patterns by time of day.
 
-- Interactive visualizations in Power BI showcasing key business metrics.
 
 ---
 
@@ -68,9 +64,6 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 3. **Python Analysis:**  
    Open the Jupyter notebooks in the `notebooks/` folder to perform exploratory data analysis, clean data, and visualize findings using Python.
 
-4. **Power BI Dashboard:**  
-   Open the `.pbix` file in the `powerbi/` folder to interact with the dashboard and explore insights visually.
-
 ---
 
 ## Tools & Technologies
@@ -78,26 +71,6 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 - MySQL for data storage and query processing.
 
 - Python (Pandas, Matplotlib) for data analysis and visualization.
-
-- Power BI for building interactive dashboards.
-
----
-
-## Licenses
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Certificates
-
-- Certificate in Data Science and Analytics from [Your Institution/Platform].
-
-- Certification in SQL for Data Analysis from [Your Institution/Platform].
-
-- Power BI Data Visualization Certificate from [Your Institution/Platform].
-
-*(Add links or attach certificates in the repository if desired.)*
 
 ---
 
