@@ -76,26 +76,30 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 
 ## Project Structure
 
-La-pizzeria-pizza-sales-project/
+La-Pizzeria-Pizza-Sales-Project/
+│
 ├── data/
-
- -pizza_sales_dump.sql
- -orders.csv
- -order_details.csv
- -pizzas.csv
- -pizza_types.csv
-
+│   ├── raw/
+│   │   ├── orders.csv
+│   │   ├── order_details.csv
+│   │   ├── pizzas.csv
+│   │   └── pizza_types.csv
+│   │
+│   ├── processed/
+│   │   └── (any cleaned or transformed data)
+│   │
+│   └── pizza_sales_dump.sql      # SQL dump of database
+│
 ├── notebooks/
- - pizza_sales_analysis.ipynb
-
-├── sql_queries/
- -pizza_sales_queries.sql
-
+│   └── pizza_sales_analysis.ipynb
+│
+├── sql/
+│   └── pizza_sales_queries.sql   # All your SQL queries
+│
 ├── reports/
- - analysis_report.pdf
- 
-|- README.md/
-
+│   └── analysis_report.pdf
+│
+├── README.md
 ---
 
 
