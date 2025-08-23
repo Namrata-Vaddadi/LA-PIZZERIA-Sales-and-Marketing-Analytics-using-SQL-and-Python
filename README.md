@@ -77,6 +77,7 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 ## Project Structure
 
 La-Pizzeria-Pizza-Sales-Project/
+
 ├── data/
 
 ├── notebooks/
