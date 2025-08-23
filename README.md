@@ -1,4 +1,4 @@
-##LA'PIZZERIA Pizza Sales Data Analysis
+#LA'PIZZERIA Pizza Sales Data Analysis
 
 Welcome to the La'pizzeria Pizza Sales Data Analysis project! This repository contains a comprehensive data analysis of pizza sales at La'pizzeria, using MySQL and Python to gain valuable business insights.
 
