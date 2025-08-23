@@ -78,10 +78,15 @@ La'pizzeria is a pizza shop specializing in a variety of pizza types and sizes. 
 
 La-Pizzeria-Pizza-Sales-Project/
 ├── data/
+
 ├── notebooks/
+
 ├── sql/
+
 ├── reports/
+
 ├── README.md
+
 
 ---
 
