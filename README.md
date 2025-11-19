@@ -1,4 +1,4 @@
-LA'PIZZERIA Pizza Sales Data Analysis
+LA'PIZZERIA Sales & Marketing Analytics using SQL and Python
 ---
 
 
